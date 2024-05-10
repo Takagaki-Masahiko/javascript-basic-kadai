@@ -9,5 +9,8 @@ console.log(height);
 
 console.log(`これはBMIの数値です`)
 
-console.log(68/(1.7*1.7));
+let bmi = weight/(height*height);
+console.log(bmi);
+
+
 
